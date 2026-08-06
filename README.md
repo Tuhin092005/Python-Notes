@@ -84,4 +84,6 @@ If you found this repository useful, please consider giving it a ⭐ on GitHub.
 
 **Tuhin Maji**
 
-GitHub: https://github.com/Tuhin092005
+B.Tech CSE (Artificial Intelligence & Machine Learning)
+
+Meghnad Saha Institute of Technology (MSIT)
