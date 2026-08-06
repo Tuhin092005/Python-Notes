@@ -63,14 +63,7 @@ This repository helps you learn:
 - Loops
 - Functions and Recursion
 - File Handling
-- Object-Oriented Programming (OOP)
-
-## 📌 Future Updates
-
-The following notebooks will be added soon:
-
-- Variables & Data Types
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOPS)
 
 ## 🤝 Contributions
 
