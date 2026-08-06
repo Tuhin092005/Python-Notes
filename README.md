@@ -87,3 +87,9 @@ If you found this repository useful, please consider giving it a ⭐ on GitHub.
 B.Tech CSE (Artificial Intelligence & Machine Learning)
 
 Meghnad Saha Institute of Technology (MSIT)
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+Feel free to use, modify, and distribute this project for educational purposes.
