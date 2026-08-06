@@ -17,8 +17,7 @@ This repository contains Python programming lecture notes implemented using Pyth
 
 - Python 3
 - Google Colab
-- Jupyter Notebook
-
+  
 ## 📁 Repository Structure
 
 ```
