@@ -1,8 +1,8 @@
 # Python Notes
 
-This repository contains Python programming lecture notes implemented using Python and Jupyter Notebook (Google Colab). These notebooks are designed for students and beginners who want to learn Python programming concepts with simple explanations and practical examples.
+This repository contains Python programming notes implemented using Python and Jupyter Notebook (Google Colab). These notebooks are designed for students and beginners who want to learn Python programming concepts with simple explanations and practical examples.
 
-## 📚 Lectures Included
+## 📚 Notes Included
 
 - ✅ 1: Variables & Data Types 
 - ✅ 2: Strings & Conditional Statements
@@ -40,16 +40,6 @@ Python-Notes/
 │── Virtual_Environments.ipynb
 └── README.md
 ```
-
-## 🚀 How to Run
-
-1. Clone or download this repository.
-
-2. Open **Google Colab**.
-
-3. Upload any `.ipynb` notebook from this repository.
-
-4. Run the notebook cells sequentially.
 
 ## 🎯 Features
 
