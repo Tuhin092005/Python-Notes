@@ -12,6 +12,10 @@ This repository contains Python programming lecture notes implemented using Pyth
 - ✅ 6: Functions & Recursion
 - ✅ 7: File Input/Output
 - ✅ 8: Object-Oriented Programming (OOPS) 
+- ✅ 9: Exception Handling
+- ✅ 10: Modules
+- ✅ 11: Packages
+- ✅ 12: Virtual Environments
 
 ## 🛠️ Technologies Used
 
@@ -30,7 +34,11 @@ Python-Notes/
 │── Functions_&_Recursion.ipynb
 │── File_Input_Output.ipynb
 │── OOPS.ipynb 
-│── README.md
+│── Exception_Handling.ipynb 
+│── Modules.ipynb 
+│── Packages.ipynb 
+│── Virtual_Environments.ipynb
+└── README.md
 ```
 
 ## 🚀 How to Run
