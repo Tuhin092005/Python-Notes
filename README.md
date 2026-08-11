@@ -26,19 +26,20 @@ This repository contains Python programming notes implemented using Python and J
 
 ```
 Python-Notes/
-│── Variables_&_Data_Types.ipynb 
-│── Strings_&_Conditional_Statements.ipynb
-│── List_&_Tuple.ipynb
-│── Dictionary_&_Set.ipynb
-│── Loops.ipynb
-│── Functions_&_Recursion.ipynb
-│── File_Input_Output.ipynb
-│── OOPS.ipynb 
-│── Exception_Handling.ipynb 
-│── Modules.ipynb 
-│── Packages.ipynb 
-│── Virtual_Environments.ipynb
-└── README.md
+│── 01_Variables_&_Data_Types.ipynb 
+│── 02_Strings_&_Conditional_Statements.ipynb
+│── 03_List_&_Tuple.ipynb
+│── 04_Dictionary_&_Set.ipynb
+│── 05_Loops.ipynb
+│── 06_Functions_&_Recursion.ipynb
+│── 07_File_Input_Output.ipynb
+│── 08_OOPS.ipynb 
+│── 09_Exception_Handling.ipynb 
+│── 10_Modules.ipynb 
+│── 11_Packages.ipynb 
+│── 12_Virtual_Environments.ipynb
+│── README.md
+└── LICENSE
 ```
 
 ## 🎯 Features
