@@ -22,7 +22,7 @@ This repository contains Python programming notes implemented using Google Colab
 - Python 3
 - Google Colab
   
-## 📁 Repository Structure
+## 📁 Notes Structure
 
 ```
 Python-Notes/
