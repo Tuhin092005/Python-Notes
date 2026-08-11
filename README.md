@@ -1,6 +1,6 @@
 # Python Notes
 
-This repository contains Python programming notes implemented using Python and Jupyter Notebook (Google Colab). These notebooks are designed for students and beginners who want to learn Python programming concepts with simple explanations and practical examples.
+This repository contains Python programming notes implemented using Google Colab. These notebooks are designed for students and beginners who want to learn Python programming concepts with simple explanations and practical examples.
 
 ## 📚 Notes Included
 
@@ -61,7 +61,11 @@ This repository helps you learn:
 - Loops
 - Functions and Recursion
 - File Handling
-- Object-Oriented Programming (OOPS)
+- OOPS 
+- Exception Handling
+- Modules
+- Packages
+- Virtual Environments
 
 ## 🤝 Contributions
 
